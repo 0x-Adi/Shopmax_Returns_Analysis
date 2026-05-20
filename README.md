@@ -1,5 +1,5 @@
 # ShopMax — Returns & Refund Loss Recovery System
-### End-to-End Data Analytics Project | MySQL + Power BI
+### End-to-End Data Analytics Project: MySQL + Power BI
 
 ---
 
@@ -153,8 +153,8 @@ CREATE DATABASE shopmax_returns;
 ## Author
 
 **Your Name**
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+- LinkedIn: https://www.linkedin.com/in/0x-adi/
+- GitHub: https://github.com/0x-Adi
 
 ---
 
