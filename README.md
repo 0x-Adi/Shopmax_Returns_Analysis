@@ -17,20 +17,6 @@ ShopMax, a growing e-commerce brand, was losing significant revenue every month 
 
 ## Project Architecture
 
-```
-MySQL Database
-      │
-      ▼
-  SQL Views (cleaned + joined data)
-      │
-      ▼
-Power BI (connected via MySQL Connector)
-      │
-      ▼
-Executive Dashboard (KPIs + Charts + Slicers)
-```
-
----
 
 ## Tools & Technologies
 
